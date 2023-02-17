@@ -1,0 +1,10 @@
+cd
+mkdir
+pwd
+touch
+cat
+vim
+find
+grep
+rm
+mv
